@@ -17,7 +17,7 @@
 
 ---
 
-## 📌 About
+##  About
 
 This repository contains coursework and project work for **Supply Chain Analytics at IBA Karachi**, taught by **Sir Faisal Jalal**.
 
@@ -40,7 +40,7 @@ Using **Chilli Milli by Ismail Industries Limited** as the focal product, the pr
 
 ---
 
-## 🤖 Analytics + AI
+## Analytics + AI
 
 AI is used alongside traditional supply chain analytics to support:
 
@@ -52,7 +52,7 @@ Data → Analytics → AI → Supply Chain Decisions
 
 ---
 
-## 🛠️ Tools
+## Tools
 
 `Python` · `Excel` · `Pandas` · `Data Visualization` · `AI`
 
