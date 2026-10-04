@@ -40,16 +40,6 @@ Using **Chilli Milli by Ismail Industries Limited** as the focal product, the pr
 
 ---
 
-## Analytics + AI
-
-AI is used alongside traditional supply chain analytics to support:
-
-**Forecasting** · **Inventory Planning** · **Sourcing** · **Risk Analysis** · **ESG** · **Decision Support**
-
-```text
-Data → Analytics → AI → Supply Chain Decisions
-```
-
 ---
 
 ## Tools
