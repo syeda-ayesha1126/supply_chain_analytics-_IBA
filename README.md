@@ -54,7 +54,7 @@ Data → Analytics → AI → Supply Chain Decisions
 
 ## 🛠️ Tools
 
-`Python` · `Excel` · `Pandas` · `Data Visualization` · `Machine Learning` · `AI`
+`Python` · `Excel` · `Pandas` · `Data Visualization` · `AI`
 
 ---
 
