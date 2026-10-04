@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/supply_chain_banner.png" alt="Supply Chain Analytics | IBA Karachi | Ismail Industries Limited | Chilli Milli" width="100%">
+<img src="./assets/supply_chain_analytics_banner.png" alt="Supply Chain Analytics | IBA Karachi | Ismail Industries Limited | Chilli Milli" width="100%">
 
 </div>
 
