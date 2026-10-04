@@ -1,6 +1,6 @@
 <div align="center">
 
-# 📊 SUPPLY CHAIN ANALYTICS
+#  SUPPLY CHAIN ANALYTICS
 
 ### IBA Karachi · Fall 2026
 
