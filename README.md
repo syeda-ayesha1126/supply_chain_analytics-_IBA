@@ -54,3 +54,19 @@
 ![Supply Chain](https://img.shields.io/badge/Supply_Chain-334155?style=for-the-badge)
 
 </div>
+
+
+<div align="center">
+
+### 🔎 AT A GLANCE
+
+<table>
+<tr>
+<td align="center"><strong>05</strong><br>Core Modules</td>
+<td align="center"><strong>01</strong><br>Capstone</td>
+<td align="center"><strong>∞</strong><br>Analytical Work</td>
+<td align="center"><strong>IBA</strong><br>Karachi</td>
+</tr>
+</table>
+
+</div>
