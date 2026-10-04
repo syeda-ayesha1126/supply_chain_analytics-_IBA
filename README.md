@@ -25,7 +25,7 @@ Using **Chilli Milli by Ismail Industries Limited** as the focal product, the pr
 
 ---
 
-## 🧭 Repository
+##  Repository
 
 | Section | Focus |
 |:---|:---|
