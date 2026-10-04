@@ -1,20 +1,6 @@
 <div align="center">
 
-#  SUPPLY CHAIN ANALYTICS
-
-### IBA Karachi · Fall 2026
-
-<p>
-  <strong>Forecasting</strong>
-  ·
-  <strong>Inventory</strong>
-  ·
-  <strong>Network Sourcing</strong>
-  ·
-  <strong>Risk & ESG</strong>
-  ·
-  <strong>Capstone</strong>
-</p>
+<img src="./assets/supply_chain_banner.png" alt="Supply Chain Analytics | IBA Karachi | Ismail Industries Limited | Chilli Milli" width="100%">
 
 </div>
 
@@ -22,22 +8,31 @@
 
 <div align="center">
 
-| 📈 Forecasting | 📦 Inventory | 🌐 Network Sourcing | 🌱 Risk & ESG | 🎓 Capstone |
-|:---:|:---:|:---:|:---:|:---:|
+| 🎓 Institution | 👨‍🏫 Instructor | 🏢 Company | 🍬 Product |
+|:---:|:---:|:---:|:---:|
+| IBA Karachi | Sir Faisal Jalal | Ismail Industries Limited | Chilli Milli |
 
 </div>
+
+<br>
+
 <div align="center">
 
-> A structured collection of work for **Supply Chain Analytics at IBA Karachi**, covering analytical methods, forecasting, inventory decisions, sourcing networks, risk, ESG, assignments and the final capstone.
+> A structured collection of analytical work for **Supply Chain Analytics at IBA Karachi**, developed around the supply chain of **Chilli Milli by Ismail Industries Limited**.
 
 </div>
-<div align="center">
 
+<div align="center">
 
 ![Python](https://img.shields.io/badge/Python-0891B2?style=for-the-badge)
 ![Excel](https://img.shields.io/badge/Excel-15803D?style=for-the-badge)
-![Analytics](https://img.shields.io/badge/Data_Analytics-0F172A?style=for-the-badge)
-![Supply Chain](https://img.shields.io/badge/Supply_Chain-334155?style=for-the-badge)
+![Data Analytics](https://img.shields.io/badge/Data_Analytics-0F172A?style=for-the-badge)
+![Supply Chain](https://img.shields.io/badge/Supply_Chain-0F766E?style=for-the-badge)
+
+</div>
+
+<br>
+
 ## 🧭 Repository Navigation
 
 | Section | Focus |
@@ -50,9 +45,3 @@
 | `05 Capstone` | Final project and applied analysis |
 | `Assignments` | Course assignments |
 | `Data` | Datasets and supporting data |
-
-
-
-</div>
-
-
