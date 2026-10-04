@@ -31,3 +31,16 @@
 > A structured collection of work for **Supply Chain Analytics at IBA Karachi**, covering analytical methods, forecasting, inventory decisions, sourcing networks, risk, ESG, assignments and the final capstone.
 
 </div>
+
+## 🧭 Repository Navigation
+
+| Section | Focus |
+|:---|:---|
+| `00 Initial Working` | Initial course work and exploratory analysis |
+| `01 Forecasting` | Forecasting methods and applications |
+| `02 Inventory` | Inventory analysis and decision making |
+| `03 Network Sourcing` | Sourcing and supply network analysis |
+| `04 Risk ESG` | Supply chain risk and ESG analysis |
+| `05 Capstone` | Final project and applied analysis |
+| `Assignments` | Course assignments |
+| `Data` | Datasets and supporting data |
