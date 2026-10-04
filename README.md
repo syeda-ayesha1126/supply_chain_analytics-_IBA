@@ -26,3 +26,8 @@
 |:---:|:---:|:---:|:---:|:---:|
 
 </div>
+<div align="center">
+
+> A structured collection of work for **Supply Chain Analytics at IBA Karachi**, covering analytical methods, forecasting, inventory decisions, sourcing networks, risk, ESG, assignments and the final capstone.
+
+</div>
