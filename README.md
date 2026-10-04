@@ -44,3 +44,13 @@
 | `05 Capstone` | Final project and applied analysis |
 | `Assignments` | Course assignments |
 | `Data` | Datasets and supporting data |
+
+<div align="center">
+
+![SQL](https://img.shields.io/badge/SQL-0F766E?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-0891B2?style=for-the-badge)
+![Excel](https://img.shields.io/badge/Excel-15803D?style=for-the-badge)
+![Analytics](https://img.shields.io/badge/Data_Analytics-0F172A?style=for-the-badge)
+![Supply Chain](https://img.shields.io/badge/Supply_Chain-334155?style=for-the-badge)
+
+</div>
